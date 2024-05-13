@@ -22,6 +22,5 @@ call the service.
 curl -X POST \
   -H "Content-Type: application/json" \
   -d '{"content":"any query to ollama"}' \
-  http://localhost:5000/recyclingData/tips
-
+  http://localhost:5000/suggestions
 ```
