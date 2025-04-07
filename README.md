@@ -1,7 +1,9 @@
 <img src="./assets/banner.png" alt="naani" />
 
 ## Info
-Naani was born out of an idea to reduce the hassle for people in many remote areas of Nepal to instantly check for cataracts using just a photo of their eye. </br> With the growing accessibility of mobile phones, it’s now a more practical solution than traveling to urban areas for a checkup. Fr a genuine effort from our side.
+Naani (meaning "eye" in Nepali) was born out of an idea to help people in remote areas of Nepal quickly check for cataracts using a simple photo.</br>
+With increasing mobile phone access, it offers a more practical solution than traveling to city areas for a checkup.<br>
+Genuinely, An honest effort from our side.
 
 ## Model Architecture
 <img src="./assets/arch.png" alt="naani" />
